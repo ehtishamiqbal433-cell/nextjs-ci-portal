@@ -15,3 +15,12 @@ A DevOps-focused Next.js application demonstrating:
 ## Architecture Diagram
 
 ![Architecture](docs/architecture-diagram.png)
+
+```mermaid
+flowchart TD
+    A[Developer] -->|Push| B[GitHub Repository]
+    B -->|Trigger| C[GitHub Actions]
+    C --> D[Lint]
+    D --> E[Build]
+    E --> F[Artifact]
+```
