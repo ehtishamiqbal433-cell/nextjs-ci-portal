@@ -8,3 +8,6 @@ A DevOps-focused Next.js application demonstrating:
 - Automated builds
 - Source control with Git
 - Modern web application deployment
+
+![CI](https://github.com/USERNAME/REPO/actions/workflows/ci.yml/badge.svg)
+![Next.js](https://img.shields.io/badge/Next.js-16-black)
