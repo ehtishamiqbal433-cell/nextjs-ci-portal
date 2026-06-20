@@ -11,3 +11,7 @@ A DevOps-focused Next.js application demonstrating:
 
 ![CI](https://github.com/USERNAME/REPO/actions/workflows/ci.yml/badge.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
+
+## Architecture Diagram
+
+![Architecture](docs/architecture-diagram.png)
